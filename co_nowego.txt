@@ -34,11 +34,3 @@ Wprowadzono:
 - Nic
 Usunięto:
 - Nie potrzebny kod
-
-v0.05 (28.11.2023)
-Poprawki
-Wprowadzono:
-- Nic
-Usunięto:
-- Nie potrzebny kod
-  
