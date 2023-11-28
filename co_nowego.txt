@@ -1,0 +1,44 @@
+# Dziennik zmian
+
+v0.00 (31.10.2023)
+Wersja początkowa
+Wprowadzono:
+- Kalkulator
+Usunięto:
+- Nic
+
+v0.01 (28.11.2023)
+Poprawki
+Wprowadzono:
+- Nic
+Usunięto:
+- Nie potrzebny kod
+
+v0.02 (28.11.2023)
+Poprawki
+Wprowadzono:
+- Nic
+Usunięto:
+- Nie potrzebny kod
+
+v0.03 (28.11.2023)
+Poprawki
+Wprowadzono:
+- Nic
+Usunięto:
+- Nie potrzebny kod
+
+v0.04 (28.11.2023)
+Poprawki
+Wprowadzono:
+- Nic
+Usunięto:
+- Nie potrzebny kod
+
+v0.05 (28.11.2023)
+Poprawki
+Wprowadzono:
+- Nic
+Usunięto:
+- Nie potrzebny kod
+  
