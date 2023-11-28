@@ -9,7 +9,7 @@ public class Main {
             System.out.println("▦ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▦");
             System.out.println("▥                                            ▥");
             System.out.println("▥                  Kalkulator                ▥");
-            System.out.println("▥                  ver. 0.00                 ▥");
+            System.out.println("▥                  ver. 0.03                 ▥");
             System.out.println("▥                                            ▥");
             System.out.println("▦ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▤ ▦");
             System.out.println("▸ Aby uruchomić program, wciśnij 1. ");
@@ -22,40 +22,34 @@ public class Main {
                 case (1):
                     boolean calc = true;
                     while (true) {
-                        int a = 0;
-                        int b = 0;
-                        String znak = null;
+                        int a;
+                        int b;
+                        String znak;
 
                         System.out.print("Podaj pierwszą liczbę: ");
-                        int l1 = in.nextInt();
-                        a = l1;
+                        a = in.nextInt();
 
                         System.out.print("Podaj znak działania: ");
-                        String z = in.next();
-                        znak = z;
+                        znak = in.next();
 
                         System.out.print("Podaj drugą liczbę: ");
-                        int l2 = in.nextInt();
-                        b = l2;
+                        b = in.nextInt();
 
+                        System.out.print("Wynik to: ");
                         switch (znak) {
                             case ("+"):
-                                System.out.print("Wynik to: ");
                                 System.out.println(a + b);
                                 calc = false;
                                 break;
                             case ("-"):
-                                System.out.print("Wynik to: ");
                                 System.out.println(a - b);
                                 calc = false;
                                 break;
                             case ("*"):
-                                System.out.print("Wynik to: ");
                                 System.out.println(a * b);
                                 calc = false;
                                 break;
                             case ("/"):
-                                System.out.print("Wynik to: ");
                                 System.out.println(a / b);
                                 calc = false;
                                 break;
@@ -65,13 +59,15 @@ public class Main {
                         }
                     }
                 case (2):
-                    System.out.println("v0.00");
-                    System.out.println("Wersja startowa.");
+                    System.out.println("v0.03");
+                    System.out.println("Poprawki.");
                     System.out.println("Dodano:");
-                    System.out.println("- Kalkulator bardzo prosty");
-                    System.out.println("Usunięto:");
                     System.out.println("- ");
-                    System.out.println("Wprowadzono 30.10.2023.");
+                    System.out.println("Usunięto:");
+                    System.out.println("- Niepotrzebny kod (Zastosowano zasade Clean Code'u DRY)");
+                    System.out.println("Wprowadzono 28.11.2023.");
+                    System.out.println();
+                    System.out.println("Po pełny dziennik zmian, sprawdź https://github.com/rs-projop/kalkulator/blob/master/co_nowego.txt");
                     break;
                 case (3):
                     System.exit(0);
