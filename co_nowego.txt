@@ -12,18 +12,18 @@ Poprawki
 Wprowadzono:
 - Nic
 Usunięto:
-- Niepotrzebny kod
+- Niepotrzebny kod (Zastosowano zasade Clean Code'u KISS)
 
 v0.02 (28.11.2023)
 Poprawki
 Wprowadzono:
 - Nic
 Usunięto:
-- Niepotrzebny kod
+- Niepotrzebny kod (Zastosowano zasade Clean Code'u KISS)
 
 v0.03 (28.11.2023)
 Poprawki
 Wprowadzono:
 - Nic
 Usunięto:
-- Niepotrzebny kod
+- Niepotrzebny kod (Zastosowano zasade Clean Code'u DRY)
