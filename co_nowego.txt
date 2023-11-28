@@ -12,18 +12,18 @@ Poprawki
 Wprowadzono:
 - Nic
 Usunięto:
-- Nie potrzebny kod
+- Niepotrzebny kod
 
 v0.02 (28.11.2023)
 Poprawki
 Wprowadzono:
 - Nic
 Usunięto:
-- Nie potrzebny kod
+- Niepotrzebny kod
 
 v0.03 (28.11.2023)
 Poprawki
 Wprowadzono:
 - Nic
 Usunięto:
-- Nie potrzebny kod
+- Niepotrzebny kod
